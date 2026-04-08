@@ -3,3 +3,4 @@ package-lock.json
 leek-duck-0.0.1
 shared
 *.gz
+dist/
